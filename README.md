@@ -33,7 +33,7 @@ Portfólio desenvolvido com HTML, CSS e JavaScript, garantindo design responsivo
 1. Acesse o site online: [Links](https://icarox52.github.io/LinksIcaro3/)
 2. Ou clone localmente:
 ```bash
-git clone https://github.com/Icarox52/LinksIcaro3.git
+git clone https://github.com/Icarox52/PortfolioNovo.git
 ```
 
 ## 📌 Contato
